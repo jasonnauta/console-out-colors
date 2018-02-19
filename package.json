@@ -1,0 +1,28 @@
+{
+  "name": "console-out-colors",
+  "version": "1.0.0",
+  "description": "A simple module to add colors to console output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonnauta/console-out-colors.git"
+  },
+  "keywords": [
+    "console",
+    "terminal",
+    "colors",
+    "nodejs"
+  ],
+  "author": "Jason Nauta <jnauta.hub@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jasonnauta/console-out-colors/issues"
+  },
+  "homepage": "https://github.com/jasonnauta/console-out-colors#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
